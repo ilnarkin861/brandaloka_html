@@ -1216,7 +1216,7 @@ footer .container-xxl .row div[class^=col-] {
   transition: all ease-in-out 0.3s;
 }
 #blog .posts-list .post-item:hover {
-  border-bottom: #e83a93;
+  border-color: #e83a93;
 }
 #blog .posts-list .post-item:hover .image .overlay {
   opacity: 1;

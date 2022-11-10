@@ -15,7 +15,7 @@
             @include prefixed(transition, all ease-in-out $transition_duration);
 
             &:hover{
-                border-bottom: $main_color;
+                border-color: $main_color;
 
                 .image .overlay{
                     opacity: 1;
